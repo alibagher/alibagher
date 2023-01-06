@@ -2,7 +2,7 @@
 
 I'm Ali, a Computer Science graduate from the University of Waterloo, working at Ford Motor Company.
 
-👯 Email me @ a6bagher@waterloo.ca for collaborations on Crypto tools or startup ideas!
+👯 Email me @ a6bagheri@gmail.com for collaborations on Crypto tools or startup ideas!
 
 ![Github Streak Stats][streak-stats]
 
