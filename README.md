@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Ali, a Computer Science graduate from the University of Waterloo, working at Ford Motor Company.
+I'm Ali, a Computer Science graduate from the University of Waterloo, and an Ex-Employee at Ford Motor Company.
 
 👯 Email me @ a6bagheri@gmail.com for collaborations on Crypto tools or startup ideas!
 
