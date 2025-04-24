@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi
 
 I'm Ali, a Computer Science graduate from the University of Waterloo.
 
